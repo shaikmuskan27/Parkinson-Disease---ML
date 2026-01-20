@@ -1,7 +1,7 @@
-#### 🧠 Parkinson’s Disease Prediction Using Machine Learning
+## 🧠 Parkinson’s Disease Prediction Using Machine Learning
 This project focuses on predicting Parkinson’s Disease using Machine Learning models based on biomedical voice measurements. The goal is to assist in early detection of Parkinson’s Disease by analyzing patterns in patient data.
 
-### 📌 Project Overview
+## 📌 Project Overview
 Parkinson’s Disease is a progressive neurological disorder that affects movement and speech. Early diagnosis is critical but challenging.
 
 In this project, we:
@@ -73,7 +73,7 @@ Accuracy score
 Confusion matrix
 Classification report
 
-###🚀 How to Run the Project
+## 🚀 How to Run the Project
 ✅ Prerequisites
 
 Make sure you have Python installed (3.8+ recommended).
@@ -82,7 +82,7 @@ Install required libraries:
 
 pip install numpy pandas matplotlib seaborn scikit-learn
 
-### 📈 Results
+## 📈 Results
 The trained machine learning model achieves high accuracy in predicting Parkinson’s Disease.
 
 SVM generally performs best for this dataset.
